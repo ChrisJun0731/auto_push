@@ -1,3 +1,5 @@
+package com.genture.auto_push;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
@@ -5,8 +7,8 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 /**
  * Created by Administrator on 2018/2/7.
  */
-@EnableScheduling
 @SpringBootApplication
+@EnableScheduling
 public class Application {
 
 	public static void main(String[] args) {

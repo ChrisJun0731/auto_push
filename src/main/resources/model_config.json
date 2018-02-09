@@ -1,42 +1,50 @@
-[
-	{
-		"picPath": "",
-		"startPos1": "",
-		"endPos1": "",
-		"roadCode1": "",
-		"startPos2": "",
-		"endPos2": "",
-		"roadCode2": "",
-		"startPos3": "",
-		"endPos3": "",
-		"roadCode3": "",
-		"up_left_point1": "",
-		"bottom_right_point1": "",
-		"up_left_point2": "",
-		"bottom_right_point2": "",
-		"up_left_point3": "",
-		"bottom_right_point3": "",
-		"startPos": "",
-		"endPos": ""
-	},
-	{
-		"picPath": "",
-		"startPos1": "",
-		"endPos1": "",
-		"roadCode1": "",
-		"startPos2": "",
-		"endPos2": "",
-		"roadCode2": "",
-		"startPos3": "",
-		"endPos3": "",
-		"roadCode3": "",
-		"up_left_point1": "",
-		"bottom_right_point1": "",
-		"up_left_point2": "",
-		"bottom_right_point2": "",
-		"up_left_point3": "",
-		"bottom_right_point3": "",
-		"startPos": "",
-		"endPos": ""
-	}
-]
+{
+	"baseMaps": [
+		{
+			"startPos": "121.588263,29.773341",
+			"endPos": "121.614613,29.743201",
+			"picPath": "E:\\capture\\baseMap\\13-1.png",
+			"textPoint": "37,20",
+			"roads":[
+				{
+					"roadCode": "12140d4e08171a150d8863061801200128a80130ae1012130df6b9171a15d9b762061801200128c1023000",
+					"up_left_point": "26,35",
+					"bottom_right_point": "44,41"
+				},
+				{
+					"roadCode": "12140d4e08171a150d8863061801200128a80130ae1012130df6b9171a15d9b762061801200128c1023000",
+					"up_left_point": "46,35",
+					"bottom_right_point": "106,41"
+				},
+				{
+					"roadCode": "12140d8545181a15b71262061801200128880130ea0412130d277f181a150bd761061801200128ca023000",
+					"up_left_point": "108,35",
+					"bottom_right_point": "126,41"
+				}
+			]
+		},
+		{
+			"startPos": "121.614613,29.743201",
+			"endPos": "121.701219,29.684613",
+			"textPoint": "38,20",
+			"picPath": "E:\\capture\\baseMap\\13-2.png",
+			"roads":[
+				{
+					"roadCode": "12140dcc75181a1518e461061801200128940130e81612130d0361191a158eb360061801200128b6023000",
+					"up_left_point": "27,35",
+					"bottom_right_point": "45,41"
+				},
+				{
+					"roadCode": "12140d1949191a15edc360061801200128820130c21f12130d21431b1a1579c95f061801200128a5023000",
+					"up_left_point": "47,35",
+					"bottom_right_point": "107,41"
+				},
+				{
+					"roadCode": "12130d86771a1a153928600618012001287330a52e12130d37421d1a1540a05e061801200128a0023000",
+					"up_left_point": "109,35",
+					"bottom_right_point": "127,41"
+				}
+			]
+		}
+	]
+}
